@@ -1,0 +1,19 @@
+{
+  "name": "careaxiom",
+  "version": "1.0.0",
+  "description": "AdeelZain's URL Title Scrutinizer",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.27"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "adeel.zain@fireeye.com",
+  "license": "ISC"
+}
