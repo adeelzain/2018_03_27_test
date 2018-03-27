@@ -2,9 +2,11 @@
 scrutinize url title
 
 ### Prerequisite
-* pip install distance
+* npm, node
 
 ## Usage
+* cd <dir>
+* "npm install ."
 * uncomment the route to test, comment out the others
 * run, "node server.js"
 
